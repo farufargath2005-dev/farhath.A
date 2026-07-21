@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Farhath A
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
-
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 💫 About Me
